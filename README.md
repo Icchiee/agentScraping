@@ -13,3 +13,15 @@
   <li>各認定支援機関が何件採択支援を行ったかを記載したcsvファイルが出力される。</li>
 </ol>
 
+<h1>使用技術</h1>
+
+<p>
+  <ul>
+    <li>Python</li>
+      <ul>
+        <li>pandas</li>
+        <li>tabula</li>
+        <li>tkinter</li>
+      </ul>
+  </ul>
+</p>
